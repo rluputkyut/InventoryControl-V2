@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+.dotnet/
+.appdata/
+.nuget-packages/
+web/node_modules/
+web/dist/
+mobile/node_modules/
+mobile/dist/
+mobile/.expo/

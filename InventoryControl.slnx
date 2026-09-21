@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="src/InventoryControl.Domain/InventoryControl.Domain.csproj" />
+  <Project Path="src/InventoryControl.Application/InventoryControl.Application.csproj" />
+  <Project Path="src/InventoryControl.Infrastructure/InventoryControl.Infrastructure.csproj" />
+  <Project Path="src/InventoryControl.Api/InventoryControl.Api.csproj" />
+  <Project Path="tests/InventoryControl.Tests/InventoryControl.Tests.csproj" />
+</Solution>
